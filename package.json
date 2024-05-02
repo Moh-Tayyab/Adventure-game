@@ -1,6 +1,6 @@
 {
-  "name": "adventure-game",
-  "version": "1.0.0",
+  "name": "@moh-tayyab0342/adventure-game",
+  "version": "1.6.0",
   "main": "index.js",
   "type": "module",
   "publishConfig": {
@@ -12,7 +12,7 @@
   "keywords": [],
   "author": "",
   "license": "MIT",
-  "description": "",
+  "description": "This Adventure-Game with typescript, node.js, inquirer and chalk",
   "dependencies": {
     "inquirer": "^9.2.20"
   },
